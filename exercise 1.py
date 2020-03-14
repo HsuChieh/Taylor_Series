@@ -19,4 +19,4 @@ elif b == 1:
 elif a == 1 and b == 1:
     print( c, "x")
 else:
-    print(a,"(", c, "x)**",b)
+    print(a,"(", c, "x)**",b)  #aeaw e
